@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "ue5-toolkit": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["-m", "ue_toolkit.server"]
+    }
+  }
+}
